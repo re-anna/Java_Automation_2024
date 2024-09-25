@@ -1,3 +1,5 @@
+package HW1_8;
+
 public class HW_3_2 {
     public static void main(String[] args) {
         //Задача №1

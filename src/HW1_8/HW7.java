@@ -1,6 +1,4 @@
-
-
-import static java.lang.System.*;
+package HW1_8;
 
 public class HW7 {
     public static void main(String[] args){

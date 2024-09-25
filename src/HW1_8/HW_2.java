@@ -1,3 +1,5 @@
+package HW1_8;
+
 public class HW_2 {
 
     public static void main(String[] args) {
